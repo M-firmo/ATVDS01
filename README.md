@@ -6,7 +6,7 @@ O projeto consiste na criação de um menu com 5 opções para o usuário decret
 ## 🚀 Tecnologias Utilizadas
 
 - **Linguagem de Programação**: Java
-- **Bibliotecas/Frameworks**: `java.util` (para estruturas de dados como `ArrayList` e `Scanner`).
+- **Bibliotecas/Frameworks**: `java.util`
 
 ## 📁 Estrutura do Projeto
 
