@@ -30,12 +30,3 @@ O projeto contém os seguintes arquivos:
 - [ ] 4 - Listar todos os produtos: - Funcionalidade para listar os produtos cadastrados e se nenhum for encontrado, exibir a mensagem "não tem produtos cadastrados".
 - [ ] 5 - Excluir um produto: - Case para sair do produto(o código somente se encerrará se essa opção for escolhida).
 
-## 🚀 Como Executar
-
-1. Certifique-se de ter o Java instalado em sua máquina.
-2. Compile os arquivos com o seguinte comando:
-   ```sh
-   javac Main.java Produto.java
-3. Execute o programa:
-    ```sh
-    java main
