@@ -24,9 +24,9 @@ O projeto contém os seguintes arquivos:
 
 ## ⚙️ Funcionalidades(feitas pelo uso de switch case)
 
-- [ ] 1 - Cadastrar produtos: - Usada para cadastrar o produto e suas informações: como código, cor, categoria, nome e cep.
-- [ ] 2 - Alterar produtos: - Modifica as informações de um produto ja cadastrado e exibe a mesagem produto alterado no final.
-- [ ] 3 - Excluir produtos: - Case para escluir um produto por meio do código cadastrado anteriormente.
-- [ ] 4 - Listar todos os produtos: - Funcionalidade para listar os produtos cadastrados e se nenhum for encontrado, exibir a mensagem "não tem produtos cadastrados".
-- [ ] 5 - Excluir um produto: - Case para sair do produto(o código somente se encerrará se essa opção for escolhida).
+- [ ] Cadastrar produtos - Usada para cadastrar o produto e suas informações: como código, cor, categoria, nome e cep.
+- [ ] Alterar produtos - Modifica as informações de um produto ja cadastrado e exibe a mesagem produto alterado no final.
+- [ ] Excluir produtos - Case para escluir um produto por meio do código cadastrado anteriormente.
+- [ ] Listar todos os produtos - Funcionalidade para listar os produtos cadastrados e se nenhum for encontrado, exibir a mensagem "não tem produtos cadastrados".
+- [ ] Sair - Case para sair do programa(o código somente se encerrará se essa opção for escolhida).
 
