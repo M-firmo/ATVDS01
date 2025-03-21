@@ -2,6 +2,11 @@
 
 O projeto consiste na criação de um menu com 5 opções para o usuário decretar seus respectivos valores.
 
+## 🚀 Tecnologias Utilizadas
+
+- **Linguagem de Programação**: Java
+- **Bibliotecas/Frameworks**: `java.util` (para estruturas de dados como `ArrayList` e `Scanner`).
+
 ## 📁 Estrutura do Projeto
 
 O projeto contém os seguintes arquivos:
@@ -16,7 +21,7 @@ O projeto contém os seguintes arquivos:
 
 ## ⚙️ Funcionalidades(feitas pelo uso de switch case)
 
-- [ ] 1 - Cadastrar produtos: - Usada para cadastrar o produto e suas informações: como código, cor, categoria, nome e cep.
+- [ ] **1 - Cadastrar produtos: - Usada para cadastrar o produto e suas informações: como código, cor, categoria, nome e cep.**
 - [ ] 2 - Alterar produtos: - Modifica as informações de um produto ja cadastrado e exibe a mesagem produto alterado no final.
 - [ ] 3 - Excluir produtos: - Case para escluir um produto por meio do código cadastrado anteriormente.
 - [ ] 4 - Listar todos os produtos: - Funcionalidade para listar os produtos cadastrados e se nenhum for encontrado, exibir a mensagem "não tem produtos cadastrados".
