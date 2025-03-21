@@ -19,7 +19,6 @@ O projeto contém os seguintes arquivos:
      - Listar todos os produtos.
      - Sair.
       
-        ---
 
 - **`Produto.java`** → Declaração das variáveis dos itens do menu e encapsulamento dos atributos da classe.
 
